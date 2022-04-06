@@ -1,0 +1,4 @@
+Class,19CLC20
+Course code,Year,Semester,Course name,Lecturer username,Date begin,Date end,Time from,Time to,Date of week
+MTH0003,2019-2020,2,Calculus I,nttrung,02/03/2020,21/06/2020,07:30,09:30,Tuesday
+CSC10002,2019-2020,2,Intro to CSII,nhminh,02/03/2020,21/06/2020,10:30,14:30,Saturday

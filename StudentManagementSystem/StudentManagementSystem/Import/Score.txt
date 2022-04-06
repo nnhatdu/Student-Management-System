@@ -1,0 +1,4 @@
+No,Course code,Course Name,Year,Semester,Student Id,Midterm score,Lab score,Final score,Total score
+1,CSC10002,hahaha,2019-2020,2,19127600,5,5,5,5
+2,CSC10009,hihihi,2019-2020,3,19127601,10,10,10,10
+3,CSC10010,okok,2019-2020,4,19127602,10,10,10,10

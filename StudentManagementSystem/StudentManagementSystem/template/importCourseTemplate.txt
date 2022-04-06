@@ -1,0 +1,3 @@
+Class,{your class}
+Course code,Year,Semester,Course name,Lecturer username,Date begin,Date end,Time from,Time to,Date of week
+{your data here}

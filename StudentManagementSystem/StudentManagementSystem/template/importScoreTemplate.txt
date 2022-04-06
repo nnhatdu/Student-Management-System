@@ -1,0 +1,2 @@
+No,Course code,Course Name,Year,Semester,Student Id,Midterm score,Lab score,Final score,Total score
+{your data here, each record is on a single line with the format above}
